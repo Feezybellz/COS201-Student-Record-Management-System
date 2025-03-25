@@ -13,8 +13,8 @@ A C-based application for managing student records efficiently.
 8. Anastasia Amarachi Ogbodo - 30046734
 
 
-## Jetbrain Dashboard
-![Jetbrain Dashboard](https://github.com/Feezybellz/COS201-Student-Record-Management-System/blob/master/jetbrain%20dashboard.jpg)
+## CLion License
+![CLion License](https://github.com/Feezybellz/COS201-Student-Record-Management-System/blob/master/CLion%20License.jpg)
 
 ## Features
 - Add, modify, delete student records
