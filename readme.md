@@ -12,6 +12,9 @@ A C-based application for managing student records efficiently.
 7. Dalla Samuel - 30075797
 8. Anastasia Amarachi Ogbodo - 30046734
 
+
+![Jetbrain Dashboard](https://github.com/Feezybellz/COS201-Student-Record-Management-System/blob/master/jetbrain dashboard.jpg)
+
 ## Features
 - Add, modify, delete student records
 - Search by roll number
