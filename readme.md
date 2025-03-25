@@ -14,7 +14,7 @@ A C-based application for managing student records efficiently.
 
 
 ## CLion License
-![CLion License](https://github.com/Feezybellz/COS201-Student-Record-Management-System/blob/master/CLion%20License.jpg)
+![CLion License](https://github.com/user-attachments/assets/478b4b44-92aa-49e7-a296-59ce356a8e70)
 
 ## Features
 - Add, modify, delete student records
